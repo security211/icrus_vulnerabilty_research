@@ -17,5 +17,8 @@ procedure linkage table
 
 //github.com/zardus/ctf-tools search for rop gadgets
 
+(python3 -c 'print("%p"*20)';cat) |./vuln
+
+pwn canaries end with a null byte
 
   

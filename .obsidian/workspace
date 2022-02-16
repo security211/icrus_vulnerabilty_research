@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "a820aaaaac9cb463",
+    "type": "split",
+    "children": [
+      {
+        "id": "600fb06477058bd4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "web_research/xss.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f821a1d1b3c8ec12",
+    "type": "split",
+    "children": [
+      {
+        "id": "b608e57b2ebbb76a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c484cca409a514c4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cd1827f5f7e05739",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d4ba5fc0646d2099",
+    "type": "split",
+    "children": [
+      {
+        "id": "a95e6e299df3b4a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5d2b3ef9a0aae2f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "web_research/xss.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "600fb06477058bd4",
+  "lastOpenFiles": [
+    "web_research/xss.md",
+    "web_research/XXE.md",
+    "rev&pwn/pwn tools.md",
+    "rev&pwn/tricks in the craft.md",
+    "rev&pwn/malware analysis.md",
+    "rev&pwn/gdb.md",
+    "rev&pwn/c.md",
+    "web_research/node.md",
+    "web_research/recon.md",
+    "web_research/research.md"
+  ]
+}

@@ -66,3 +66,5 @@ show 4 rip instructions
 
 # untill main 
 *****  
+
+vmmap is used to show how the memory is lined up 

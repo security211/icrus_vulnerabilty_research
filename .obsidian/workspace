@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "web_research/xss.md",
+            "file": "web_research/smuggling.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web_research/xss.md",
+                "file": "web_research/smuggling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "600fb06477058bd4",
   "lastOpenFiles": [
+    "web_research/smuggling.md",
     "web_research/xss.md",
     "web_research/XXE.md",
     "rev&pwn/pwn tools.md",
@@ -96,7 +97,6 @@
     "rev&pwn/gdb.md",
     "rev&pwn/c.md",
     "web_research/node.md",
-    "web_research/recon.md",
-    "web_research/research.md"
+    "web_research/recon.md"
   ]
 }

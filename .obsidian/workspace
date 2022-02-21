@@ -89,14 +89,14 @@
   "active": "600fb06477058bd4",
   "lastOpenFiles": [
     "web_research/smuggling.md",
+    "web_research/SSRF.md",
+    "bug bounty/Payload list.md",
+    "bug bounty/Scripts.md",
     "web_research/xss.md",
     "web_research/XXE.md",
     "rev&pwn/pwn tools.md",
     "rev&pwn/tricks in the craft.md",
     "rev&pwn/malware analysis.md",
-    "rev&pwn/gdb.md",
-    "rev&pwn/c.md",
-    "web_research/node.md",
-    "web_research/recon.md"
+    "rev&pwn/gdb.md"
   ]
 }

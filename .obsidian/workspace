@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Acces control.md",
+            "file": "Port swinger.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Acces control.md",
+                "file": "Port swinger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "600fb06477058bd4",
   "lastOpenFiles": [
+    "Port swinger.md",
     "Acces control.md",
     "web_research/LFI.md",
     "web_research/XXE.md",
@@ -96,7 +97,6 @@
     "bug bounty/Payload list.md",
     "bug bounty/Scripts.md",
     "web_research/xss.md",
-    "rev&pwn/pwn tools.md",
-    "rev&pwn/tricks in the craft.md"
+    "rev&pwn/pwn tools.md"
   ]
 }

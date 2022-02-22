@@ -13,8 +13,13 @@ url encoding
 ..../.../..../
 raw path
 /etc/passwd
-../../../%00
+
 
 
 #  File path traversal, validation of start of path
 /var/www/images/../../../etc/passwd
+
+### validation of file extension with null byte bypass
+
+../../../../../etc/passwd00%.png
+

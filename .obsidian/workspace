@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "LFI.md",
+            "file": "Acces control.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LFI.md",
+                "file": "Acces control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,8 @@
   },
   "active": "600fb06477058bd4",
   "lastOpenFiles": [
-    "LFI.md",
+    "Acces control.md",
+    "web_research/LFI.md",
     "web_research/XXE.md",
     "web_research/smuggling.md",
     "web_research/SSRF.md",
@@ -96,7 +97,6 @@
     "bug bounty/Scripts.md",
     "web_research/xss.md",
     "rev&pwn/pwn tools.md",
-    "rev&pwn/tricks in the craft.md",
-    "rev&pwn/malware analysis.md"
+    "rev&pwn/tricks in the craft.md"
   ]
 }

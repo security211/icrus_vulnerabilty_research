@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Port swinger.md",
+            "file": "Information Disclosure.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Port swinger.md",
+                "file": "Information Disclosure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "600fb06477058bd4",
   "lastOpenFiles": [
+    "Information Disclosure.md",
     "Port swinger.md",
     "Acces control.md",
     "web_research/LFI.md",
@@ -96,7 +97,6 @@
     "web_research/SSRF.md",
     "bug bounty/Payload list.md",
     "bug bounty/Scripts.md",
-    "web_research/xss.md",
-    "rev&pwn/pwn tools.md"
+    "web_research/xss.md"
   ]
 }

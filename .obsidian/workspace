@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Information Disclosure.md",
+            "file": "GTFO bins.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Xss.md",
+                "file": "GTFO bins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,17 +97,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "731458f286225d62",
+  "active": "600fb06477058bd4",
   "lastOpenFiles": [
-    "Xss.md",
+    "GTFO bins.md",
     "Information Disclosure.md",
+    "Xss.md",
     "conflict-files-obsidian-git.md",
     "Git Dorking.md",
     "Port swinger.md",
     "Acces control.md",
     "web_research/LFI.md",
     "web_research/XXE.md",
-    "web_research/smuggling.md",
-    "web_research/SSRF.md"
+    "web_research/smuggling.md"
   ]
 }

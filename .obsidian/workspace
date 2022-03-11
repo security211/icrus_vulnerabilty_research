@@ -9,18 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GTFO bins.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "731458f286225d62",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Xss.md",
+            "file": "rev&pwn/assembly tools for annalysis.md",
             "mode": "source"
           }
         }
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GTFO bins.md",
+                "file": "rev&pwn/assembly tools for annalysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +88,15 @@
   },
   "active": "600fb06477058bd4",
   "lastOpenFiles": [
-    "GTFO bins.md",
+    "rev&pwn/assembly tools for annalysis.md",
+    "penetration_testing/pivoting_research.md",
     "Information Disclosure.md",
+    "Priv esc/GTFO bins.md",
+    "bug bounty/recon/Eye witness.md",
     "Xss.md",
     "conflict-files-obsidian-git.md",
     "Git Dorking.md",
     "Port swinger.md",
-    "Acces control.md",
-    "web_research/LFI.md",
-    "web_research/XXE.md",
-    "web_research/smuggling.md"
+    "Acces control.md"
   ]
 }

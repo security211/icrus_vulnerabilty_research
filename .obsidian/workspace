@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "rev&pwn/assembly tools for annalysis.md",
+            "file": "Linux/privesc.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rev&pwn/assembly tools for annalysis.md",
+                "file": "Linux/privesc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "600fb06477058bd4",
   "lastOpenFiles": [
+    "Linux/privesc.md",
+    "Linux/find cheat sheet.md",
     "rev&pwn/assembly tools for annalysis.md",
     "penetration_testing/pivoting_research.md",
     "Information Disclosure.md",
@@ -95,8 +97,6 @@
     "bug bounty/recon/Eye witness.md",
     "Xss.md",
     "conflict-files-obsidian-git.md",
-    "Git Dorking.md",
-    "Port swinger.md",
-    "Acces control.md"
+    "Git Dorking.md"
   ]
 }

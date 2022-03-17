@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Linux/privesc.md",
+            "file": "expoiting rootkits.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/privesc.md",
+                "file": "expoiting rootkits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "600fb06477058bd4",
   "lastOpenFiles": [
+    "expoiting rootkits.md",
     "Linux/privesc.md",
     "Linux/find cheat sheet.md",
     "rev&pwn/assembly tools for annalysis.md",
@@ -96,7 +97,6 @@
     "Priv esc/GTFO bins.md",
     "bug bounty/recon/Eye witness.md",
     "Xss.md",
-    "conflict-files-obsidian-git.md",
-    "Git Dorking.md"
+    "conflict-files-obsidian-git.md"
   ]
 }

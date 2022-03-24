@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "expoiting rootkits.md",
+            "file": "rev&pwn/pwn tools.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "expoiting rootkits.md",
+                "file": "rev&pwn/pwn tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "600fb06477058bd4",
   "lastOpenFiles": [
+    "rev&pwn/pwn tools.md",
     "expoiting rootkits.md",
     "Linux/privesc.md",
     "Linux/find cheat sheet.md",
@@ -96,7 +97,6 @@
     "Information Disclosure.md",
     "Priv esc/GTFO bins.md",
     "bug bounty/recon/Eye witness.md",
-    "Xss.md",
-    "conflict-files-obsidian-git.md"
+    "Xss.md"
   ]
 }

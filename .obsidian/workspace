@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "rev&pwn/pwn tools.md",
+            "file": "Priv esc/GTFO bins.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rev&pwn/pwn tools.md",
+                "file": "Priv esc/GTFO bins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "600fb06477058bd4",
   "lastOpenFiles": [
+    "Priv esc/GTFO bins.md",
     "rev&pwn/pwn tools.md",
     "expoiting rootkits.md",
     "Linux/privesc.md",
@@ -95,7 +96,6 @@
     "rev&pwn/assembly tools for annalysis.md",
     "penetration_testing/pivoting_research.md",
     "Information Disclosure.md",
-    "Priv esc/GTFO bins.md",
     "bug bounty/recon/Eye witness.md",
     "Xss.md"
   ]

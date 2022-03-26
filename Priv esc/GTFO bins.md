@@ -15,3 +15,4 @@ find / -perm -u=s -type f 2>/dev/null
  check if there applications has increased limited capabilites  
  ## you can get root by modifying cron job to perform 
  
+ ##find what programs have suid then remove a file they want to run with a file that you have created

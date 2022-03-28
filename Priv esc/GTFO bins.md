@@ -11,6 +11,8 @@ find / -perm -u=s -type f 2>/dev/null
  
  ## add + to search for a specific tpe of paylod eg +suid or +sudo
  
+ sudo -l
+ 
  ## Limited Capabilities 
  check if there applications has increased limited capabilites  
  ## you can get root by modifying cron job to perform 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "tools/ffuf.md",
+            "file": "web_research/xss.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d4ba5fc0646d2099",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/ffuf.md",
+                "file": "web_research/xss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +89,15 @@
   },
   "active": "600fb06477058bd4",
   "lastOpenFiles": [
+    "web_research/xss.md",
+    "recon/Domains.md",
+    "recon/Eye witness.md",
+    "web_research/SSRF.md",
     "tools/ffuf.md",
     "osint/contend discovery.md",
     "Linux/find cheat sheet.md",
     "Linux/privesc.md",
     "osint/osint.md",
-    "Priv esc/GTFO bins.md",
-    "rev&pwn/malware analysis.md",
-    "rev&pwn/pwn tools.md",
-    "expoiting rootkits.md",
-    "rev&pwn/assembly tools for annalysis.md"
+    "Priv esc/GTFO bins.md"
   ]
 }

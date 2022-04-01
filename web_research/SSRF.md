@@ -10,3 +10,24 @@ http://r91gushu9cjj63pj30m3t3kvimocc1.burpcollaborator.net
 
 
 http://xwxmhy40wi6pt9cpq699g9715sbjz8.burpcollaborator.net
+
+
+think om how to add payload to site depending on how site proceses data
+if it changes the subdomain you add youar whole domain the mke it error out 
+
+ssrf can be spotted in web applications in many diffrent ways
+
+1.by checking url in addres bar
+2.a hidden field in a form
+3 A partial url such as just the hostname
+4
+
+1. https://requestbin.com/ an alternative to burp collaborator
+
+
+Defeating ssrf defences
+
+1.Deny list 
+
+
+

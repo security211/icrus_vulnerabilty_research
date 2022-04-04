@@ -17,4 +17,8 @@ dig to query DNS servers
 whois
 dnsdumpster 
 shodan.io
-mslookup thmlabs.com
+nslookup thmlabs.com
+
+Dig  & nslookup are used to check dns for ip adresses used.
+
+dns dumpster digs out dns information and shares it with the user

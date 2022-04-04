@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "recon/Domains.md",
+            "file": "Priv esc/shell stabilization.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "recon/Domains.md",
+                "file": "Priv esc/shell stabilization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "600fb06477058bd4",
   "lastOpenFiles": [
+    "Priv esc/shell stabilization.md",
     "recon/Domains.md",
     "web_research/xss.md",
     "recon/Eye witness.md",
@@ -97,7 +98,6 @@
     "osint/contend discovery.md",
     "Linux/find cheat sheet.md",
     "Linux/privesc.md",
-    "osint/osint.md",
-    "Priv esc/GTFO bins.md"
+    "osint/osint.md"
   ]
 }

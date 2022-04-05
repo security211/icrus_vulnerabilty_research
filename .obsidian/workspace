@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "recon/Nmap.md",
+            "file": "scripting/nmap result  parse to searchsploit.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "recon/Nmap.md",
+                "file": "scripting/nmap result  parse to searchsploit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "600fb06477058bd4",
   "lastOpenFiles": [
+    "scripting/nmap result  parse to searchsploit.md",
     "recon/Nmap.md",
     "Priv esc/Windows Priv esc.md",
     "Priv esc/shell stabilization.md",
@@ -96,7 +97,6 @@
     "recon/Eye witness.md",
     "web_research/SSRF.md",
     "tools/ffuf.md",
-    "osint/contend discovery.md",
-    "Linux/find cheat sheet.md"
+    "osint/contend discovery.md"
   ]
 }

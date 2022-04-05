@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Priv esc/shell stabilization.md",
+            "file": "recon/Nmap.md",
             "mode": "source"
           }
         }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d4ba5fc0646d2099",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Priv esc/shell stabilization.md",
+                "file": "recon/Nmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +88,8 @@
   },
   "active": "600fb06477058bd4",
   "lastOpenFiles": [
+    "recon/Nmap.md",
+    "Priv esc/Windows Priv esc.md",
     "Priv esc/shell stabilization.md",
     "recon/Domains.md",
     "web_research/xss.md",
@@ -96,8 +97,6 @@
     "web_research/SSRF.md",
     "tools/ffuf.md",
     "osint/contend discovery.md",
-    "Linux/find cheat sheet.md",
-    "Linux/privesc.md",
-    "osint/osint.md"
+    "Linux/find cheat sheet.md"
   ]
 }

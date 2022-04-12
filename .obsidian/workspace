@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "scripting/nmap result  parse to searchsploit.md",
+            "file": "Priv esc/Windows Priv esc.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scripting/nmap result  parse to searchsploit.md",
+                "file": "Priv esc/Windows Priv esc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,9 @@
   },
   "active": "600fb06477058bd4",
   "lastOpenFiles": [
+    "Priv esc/Windows Priv esc.md",
     "scripting/nmap result  parse to searchsploit.md",
     "recon/Nmap.md",
-    "Priv esc/Windows Priv esc.md",
     "Priv esc/shell stabilization.md",
     "recon/Domains.md",
     "web_research/xss.md",

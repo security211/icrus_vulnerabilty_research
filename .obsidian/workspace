@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "bruteforcing/Hydra.md",
+            "file": "connection protocls/NFS.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bruteforcing/Hydra.md",
+                "file": "connection protocls/NFS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "600fb06477058bd4",
   "lastOpenFiles": [
+    "connection protocls/NFS.md",
     "bruteforcing/Hydra.md",
     "Linux/nc.md",
     "bug bounty/Payload list.md",
@@ -96,7 +97,6 @@
     "windows/funadamentals.md",
     "Priv esc/Windows Priv esc.md",
     "scripting/nmap result  parse to searchsploit.md",
-    "recon/Nmap.md",
-    "Priv esc/shell stabilization.md"
+    "recon/Nmap.md"
   ]
 }

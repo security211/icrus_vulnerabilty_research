@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Priv esc/Windows Priv esc.md",
+            "file": "windows/funadamentals.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Priv esc/Windows Priv esc.md",
+                "file": "windows/funadamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "600fb06477058bd4",
   "lastOpenFiles": [
+    "windows/funadamentals.md",
     "Priv esc/Windows Priv esc.md",
     "scripting/nmap result  parse to searchsploit.md",
     "recon/Nmap.md",
@@ -96,7 +97,6 @@
     "web_research/xss.md",
     "recon/Eye witness.md",
     "web_research/SSRF.md",
-    "tools/ffuf.md",
-    "osint/contend discovery.md"
+    "tools/ffuf.md"
   ]
 }

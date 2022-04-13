@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "tools/enum4linux.md",
+            "file": "bruteforcing/Hydra.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/enum4linux.md",
+                "file": "bruteforcing/Hydra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "600fb06477058bd4",
   "lastOpenFiles": [
+    "bruteforcing/Hydra.md",
+    "Linux/nc.md",
+    "bug bounty/Payload list.md",
     "tools/enum4linux.md",
     "ssh.md",
     "windows/funadamentals.md",
     "Priv esc/Windows Priv esc.md",
     "scripting/nmap result  parse to searchsploit.md",
     "recon/Nmap.md",
-    "Priv esc/shell stabilization.md",
-    "recon/Domains.md",
-    "web_research/xss.md",
-    "recon/Eye witness.md"
+    "Priv esc/shell stabilization.md"
   ]
 }

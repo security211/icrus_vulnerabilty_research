@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "windows/funadamentals.md",
+            "file": "tools/enum4linux.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "windows/funadamentals.md",
+                "file": "tools/enum4linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "600fb06477058bd4",
   "lastOpenFiles": [
+    "tools/enum4linux.md",
+    "ssh.md",
     "windows/funadamentals.md",
     "Priv esc/Windows Priv esc.md",
     "scripting/nmap result  parse to searchsploit.md",
@@ -95,8 +97,6 @@
     "Priv esc/shell stabilization.md",
     "recon/Domains.md",
     "web_research/xss.md",
-    "recon/Eye witness.md",
-    "web_research/SSRF.md",
-    "tools/ffuf.md"
+    "recon/Eye witness.md"
   ]
 }

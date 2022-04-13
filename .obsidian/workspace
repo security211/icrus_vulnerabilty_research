@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "connection protocls/NFS.md",
+            "file": "windows/funadamentals.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "connection protocls/NFS.md",
+                "file": "windows/funadamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,13 +88,13 @@
   },
   "active": "600fb06477058bd4",
   "lastOpenFiles": [
+    "windows/funadamentals.md",
     "connection protocls/NFS.md",
     "bruteforcing/Hydra.md",
     "Linux/nc.md",
     "bug bounty/Payload list.md",
     "tools/enum4linux.md",
     "ssh.md",
-    "windows/funadamentals.md",
     "Priv esc/Windows Priv esc.md",
     "scripting/nmap result  parse to searchsploit.md",
     "recon/Nmap.md"

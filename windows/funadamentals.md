@@ -15,3 +15,6 @@ https://tryhackme.com/room/btwindowsinternals
 
 ## get files 
 dir *flag*.txt /s
+
+## veiw permissions usinf 
+A tool you can use to check the files or folder permissions is "icacls".

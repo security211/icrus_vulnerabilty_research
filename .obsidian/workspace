@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TMP.md",
+            "file": "Malware analysis/Tools.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TMP.md",
+                "file": "Malware analysis/Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "600fb06477058bd4",
   "lastOpenFiles": [
+    "Malware analysis/Tools.md",
     "TMP.md",
     "windows/powershell.md",
     "windows/funadamentals.md",
@@ -96,7 +97,6 @@
     "Linux/nc.md",
     "bug bounty/Payload list.md",
     "tools/enum4linux.md",
-    "ssh.md",
-    "Priv esc/Windows Priv esc.md"
+    "ssh.md"
   ]
 }

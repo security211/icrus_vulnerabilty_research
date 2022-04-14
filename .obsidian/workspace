@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "windows/powershell.md",
+            "file": "TMP.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "windows/powershell.md",
+                "file": "TMP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "600fb06477058bd4",
   "lastOpenFiles": [
+    "TMP.md",
     "windows/powershell.md",
     "windows/funadamentals.md",
     "connection protocls/NFS.md",
@@ -96,7 +97,6 @@
     "bug bounty/Payload list.md",
     "tools/enum4linux.md",
     "ssh.md",
-    "Priv esc/Windows Priv esc.md",
-    "scripting/nmap result  parse to searchsploit.md"
+    "Priv esc/Windows Priv esc.md"
   ]
 }

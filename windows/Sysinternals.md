@@ -42,24 +42,54 @@ Active socket command-line viewer.
 [Whois](https://docs.microsoft.com/en-us/sysinternals/downloads/whois)  
 See who owns an Internet address.
 
-## **Autoruns**
+# Sysinternals Process Utilities
 
-"This utility, which has the most comprehensive knowledge of auto-starting locations of any startup monitor, shows you what programs are configured to run during system bootup or login, and when you start various built-in Windows applications like Internet Explorer, Explorer and media players. These programs and drivers include ones in your startup folder, Run, RunOnce, and other Registry keys. **Autoruns** reports Explorer shell extensions, toolbars, browser helper objects, Winlogon notifications, auto-start services, and much more.
 
-## **ProcDump**
+[Autoruns](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns)  
+See what programs are configured to startup automatically when your system boots and you login. Autoruns also shows you the full list of Registry and file locations where applications can configure auto-start settings.
 
-"**ProcDump** is a command-line utility whose primary purpose is monitoring an application for CPU spikes and generating crash dumps during a spike that an administrator or developer can use to determine the cause of the spike.
+[Handle](https://docs.microsoft.com/en-us/sysinternals/downloads/handle)  
+This handy command-line utility will show you what files are open by which processes, and much more.
 
-## **Process Explorer** 
+[ListDLLs](https://docs.microsoft.com/en-us/sysinternals/downloads/listdlls)  
+List all the DLLs that are currently loaded, including where they are loaded and their version numbers. Version 2.0 prints the full path names of loaded modules.
 
-"The **Process Explorer** display consists of two sub-windows. The top window always shows a list of the currently active processes, including the names of their owning accounts, whereas the information displayed in the bottom window depends on the mode that Process Explorer is in: if it is in handle mode you'll see the handles that the process selected in the top window has opened; if Process Explorer is in DLL mode you'll see the DLLs and memory-mapped files that the process has loaded." (official definition)
+[PortMon](https://docs.microsoft.com/en-us/sysinternals/downloads/portmon)  
+Monitor serial and parallel port activity with this advanced monitoring tool. It knows about all standard serial and parallel IOCTLs and even shows you a portion of the data being sent and received. Version 3.x has powerful new UI enhancements and advanced filtering capabilities.
 
-## Process Monitor
+[ProcDump](https://docs.microsoft.com/en-us/sysinternals/downloads/procdump)  
+This new command-line utility is aimed at capturing process dumps of otherwise difficult to isolate and reproduce CPU spikes. It also serves as a general process dump creation utility and can also monitor and generate process dumps when a process has a hung window or unhandled exception.
 
-"Process Monitor is an advanced monitoring tool for Windows that shows real-time file system, Registry and process/thread activity. It combines the features of two legacy Sysinternals utilities, Filemon and Regmon, and adds an extensive list of enhancements including rich and non-destructive filtering, comprehensive event properties such as session IDs and user names, reliable process information, full thread stacks with integrated symbol support for each operation, simultaneous logging to a file, and much more. Its uniquely powerful features will make Process Monitor a core utility in your system troubleshooting and malware hunting toolkit."
+[Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer)  
+Find out what files, registry keys and other objects processes have open, which DLLs they have loaded, and more. This uniquely powerful utility will even show you who owns each process.
 
-## **PsExec**
+[Process Monitor](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon)  
+Monitor file system, Registry, process, thread and DLL activity in real-time.
 
-"**PsExec** is a light-weight telnet-replacement that lets you execute processes on other systems, complete with full interactivity for console applications, without having to manually install client software. PsExec's most powerful uses include launching interactive command-prompts on remote systems and remote-enabling tools like IpConfig that otherwise do not have the ability to show information about remote systems." (offici
+[PsExec](https://docs.microsoft.com/en-us/sysinternals/downloads/psexec)  
+Execute processes remotely.
 
+[PsGetSid](https://docs.microsoft.com/en-us/sysinternals/downloads/psgetsid)  
+Displays the SID of a computer or a user.
+
+[PsKill](https://docs.microsoft.com/en-us/sysinternals/downloads/pskill)  
+Terminate local or remote processes.
+
+[PsList](https://docs.microsoft.com/en-us/sysinternals/downloads/pslist)  
+Show information about processes and threads.
+
+[PsService](https://docs.microsoft.com/en-us/sysinternals/downloads/psservice)  
+View and control services.
+
+[PsSuspend](https://docs.microsoft.com/en-us/sysinternals/downloads/pssuspend)  
+Suspend and resume processes.
+
+[PsTools](https://docs.microsoft.com/en-us/sysinternals/downloads/pstools)  
+The PsTools suite includes command-line utilities for listing the processes running on local or remote computers, running processes remotely, rebooting computers, dumping event logs, and more.
+
+[ShellRunas](https://docs.microsoft.com/en-us/sysinternals/downloads/shellrunas)  
+Launch programs as a different user via a convenient shell context-menu entry.
+
+[VMMap](https://docs.microsoft.com/en-us/sysinternals/downloads/vmmap)  
+See a breakdown of a process's committed virtual memory types as well as the amount of physical memory (working set) assigned by the operating system to those types. Identify the sources of process memory usage and the memory cost of application features.
 

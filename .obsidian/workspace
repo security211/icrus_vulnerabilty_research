@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "windows/funadamentals.md",
+            "file": "windows/Sysinternals.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "windows/funadamentals.md",
+                "file": "windows/Sysinternals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "600fb06477058bd4",
   "lastOpenFiles": [
+    "windows/Sysinternals.md",
     "windows/funadamentals.md",
     "Malware analysis/Yara.md",
     "Malware analysis/Tools.md",
@@ -96,7 +97,6 @@
     "connection protocls/NFS.md",
     "bruteforcing/Hydra.md",
     "Linux/nc.md",
-    "bug bounty/Payload list.md",
-    "tools/enum4linux.md"
+    "bug bounty/Payload list.md"
   ]
 }

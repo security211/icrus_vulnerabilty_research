@@ -5,3 +5,5 @@ Username: **cmnatic**
 Password: **yararules!**
 
 SSH Port: **22**
+
+`rdesktop -u username -f IP`

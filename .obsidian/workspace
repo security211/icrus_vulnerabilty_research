@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Malware analysis/Yara.md",
+            "file": "windows/funadamentals.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Malware analysis/Yara.md",
+                "file": "windows/funadamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,11 +88,11 @@
   },
   "active": "600fb06477058bd4",
   "lastOpenFiles": [
+    "windows/funadamentals.md",
     "Malware analysis/Yara.md",
     "Malware analysis/Tools.md",
     "TMP.md",
     "windows/powershell.md",
-    "windows/funadamentals.md",
     "connection protocls/NFS.md",
     "bruteforcing/Hydra.md",
     "Linux/nc.md",

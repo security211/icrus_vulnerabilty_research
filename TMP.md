@@ -7,3 +7,9 @@ Password: **yararules!**
 SSH Port: **22**
 
 `rdesktop -u username -f IP`
+
+xfreerdp
+best rdp soffware
+
+
+xfreerdp /u:Analysis /p:Tryhackme123! /v:10.10.140.138 

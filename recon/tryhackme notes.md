@@ -12,3 +12,6 @@ shows how many host are in a given ip
 
 ## whois
 gives ifo about the blog
+
+## special search engines
+

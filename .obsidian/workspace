@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Malware analysis/Tools.md",
+            "file": "Malware analysis/c2.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Malware analysis/Tools.md",
+                "file": "Malware analysis/c2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "600fb06477058bd4",
   "lastOpenFiles": [
+    "Malware analysis/c2.md",
     "Malware analysis/Tools.md",
     "TMP.md",
     "windows/Sysinternals.md",
@@ -96,7 +97,6 @@
     "Malware analysis/Yara.md",
     "windows/powershell.md",
     "connection protocls/NFS.md",
-    "bruteforcing/Hydra.md",
-    "Linux/nc.md"
+    "bruteforcing/Hydra.md"
   ]
 }

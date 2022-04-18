@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Malware analysis/c2.md",
+            "file": "recon/tryhackme notes.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Malware analysis/c2.md",
+                "file": "recon/tryhackme notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "600fb06477058bd4",
   "lastOpenFiles": [
+    "recon/tryhackme notes.md",
+    "recon/Nmap.md",
+    "recon/Eye witness.md",
+    "recon/Domains.md",
     "Malware analysis/c2.md",
     "Malware analysis/Tools.md",
     "TMP.md",
     "windows/Sysinternals.md",
     "windows/funadamentals.md",
-    "scripting/good apis.md",
-    "Malware analysis/Yara.md",
-    "windows/powershell.md",
-    "connection protocls/NFS.md",
-    "bruteforcing/Hydra.md"
+    "scripting/good apis.md"
   ]
 }

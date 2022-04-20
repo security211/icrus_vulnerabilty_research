@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "boxes coverd/STeel Mountain.md",
+            "file": "boxes coverd/Alfred.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "boxes coverd/STeel Mountain.md",
+                "file": "boxes coverd/Alfred.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "600fb06477058bd4",
   "lastOpenFiles": [
+    "boxes coverd/Alfred.md",
+    "Untitled.md",
     "boxes coverd/STeel Mountain.md",
     "recon/tryhackme notes.md",
     "recon/Nmap.md",
@@ -95,8 +97,6 @@
     "recon/Domains.md",
     "Malware analysis/c2.md",
     "Malware analysis/Tools.md",
-    "TMP.md",
-    "windows/Sysinternals.md",
-    "windows/funadamentals.md"
+    "TMP.md"
   ]
 }

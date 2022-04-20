@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "windows/powershell.md",
+            "file": "windows/Powershell.md",
             "mode": "source"
           }
         }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228,
-    "collapsed": true
+    "width": 228
   },
   "right": {
     "id": "d4ba5fc0646d2099",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "windows/powershell.md",
+                "file": "windows/Powershell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,9 +88,9 @@
   },
   "active": "600fb06477058bd4",
   "lastOpenFiles": [
+    "windows/Powershell.md",
     "windows/powershell.md",
     "TMP.md",
-    "windows/Powershell.md",
     "boxes coverd/Alfred.md",
     "boxes coverd/STeel Mountain.md",
     "Untitled.md",

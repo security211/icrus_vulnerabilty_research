@@ -3,21 +3,28 @@
 powershell uses cmdlets
 cmdlets are object oriented
 Get-command and Get help are you best friends
+## Get-Help
 Get-Help displays information about a _cmdlet_
+to get examples use 
+Get-Help Get-Command -Examples
 
 ## Get-command 
+Get comand is used to search for commands
+when one types get commands it list all commands
 
- 
- 
- to
-
+## Get-ChildItem
 search files in powershell using
-C:\Users> Get-ChildItem -Path C:\ -Include *interesting-file* -File  -Recurse -ErrorAction SilentlyContinue
+ Get-ChildItem -Path C:\ -Include *interesting-file* -File  -Recurse -ErrorAction SilentlyContinue
 
-Get-Command | ForEach-Object -Begin {$count = 0} -Process{$_ +1} -End{"--- count:$count"}
+Search for all files containing a string eg "API_KEY"
 
+Get-ChildItem C:\* -Recurse | Select-String -pattern API_KEY
 
+## Get-Hotfix
+shows windows updates aplied
 
+## Get-Process
+lists processes
 
 
 learn powershell scripting

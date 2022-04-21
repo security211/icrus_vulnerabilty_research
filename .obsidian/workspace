@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "windows/Powershell.md",
+            "file": "TMP.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "windows/Powershell.md",
+                "file": "TMP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,10 +89,10 @@
   },
   "active": "600fb06477058bd4",
   "lastOpenFiles": [
+    "TMP.md",
     "windows/Powershell.md",
     "README.md",
     "windows/powershell.md",
-    "TMP.md",
     "boxes coverd/Alfred.md",
     "boxes coverd/STeel Mountain.md",
     "Untitled.md",

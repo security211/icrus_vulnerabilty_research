@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TMP.md",
+            "file": "windows/funadamentals.md",
             "mode": "source"
           }
         }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228,
-    "collapsed": true
+    "width": 228
   },
   "right": {
     "id": "d4ba5fc0646d2099",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TMP.md",
+                "file": "windows/funadamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +88,15 @@
   },
   "active": "600fb06477058bd4",
   "lastOpenFiles": [
-    "TMP.md",
-    "windows/Powershell.md",
-    "README.md",
+    "windows/funadamentals.md",
     "windows/powershell.md",
+    "windows/Powershell.md",
+    "TMP.md",
+    "README.md",
     "boxes coverd/Alfred.md",
     "boxes coverd/STeel Mountain.md",
     "Untitled.md",
     "recon/tryhackme notes.md",
-    "recon/Nmap.md",
-    "recon/Eye witness.md"
+    "recon/Nmap.md"
   ]
 }

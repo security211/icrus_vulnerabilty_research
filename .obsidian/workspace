@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "windows/funadamentals.md",
+            "file": "scripting/Untitled.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "windows/funadamentals.md",
+                "file": "scripting/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "600fb06477058bd4",
   "lastOpenFiles": [
+    "scripting/Untitled.md",
     "windows/funadamentals.md",
     "windows/powershell.md",
     "windows/Powershell.md",
@@ -96,7 +97,6 @@
     "boxes coverd/Alfred.md",
     "boxes coverd/STeel Mountain.md",
     "Untitled.md",
-    "recon/tryhackme notes.md",
-    "recon/Nmap.md"
+    "recon/tryhackme notes.md"
   ]
 }

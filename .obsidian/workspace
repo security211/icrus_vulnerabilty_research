@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "bruteforcing/sqlmap.md",
+            "file": "Priv esc/GTFO bins.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bruteforcing/sqlmap.md",
+                "file": "Priv esc/GTFO bins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "600fb06477058bd4",
   "lastOpenFiles": [
+    "Priv esc/GTFO bins.md",
     "bruteforcing/sqlmap.md",
     "bruteforcing/john.md",
     "scripting/Untitled.md",
@@ -96,7 +97,6 @@
     "windows/Powershell.md",
     "TMP.md",
     "README.md",
-    "boxes coverd/Alfred.md",
-    "boxes coverd/STeel Mountain.md"
+    "boxes coverd/Alfred.md"
   ]
 }

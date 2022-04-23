@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "scripting/Untitled.md",
+            "file": "bruteforcing/sqlmap.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scripting/Untitled.md",
+                "file": "bruteforcing/sqlmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "600fb06477058bd4",
   "lastOpenFiles": [
+    "bruteforcing/sqlmap.md",
+    "bruteforcing/john.md",
     "scripting/Untitled.md",
     "windows/funadamentals.md",
     "windows/powershell.md",
@@ -95,8 +97,6 @@
     "TMP.md",
     "README.md",
     "boxes coverd/Alfred.md",
-    "boxes coverd/STeel Mountain.md",
-    "Untitled.md",
-    "recon/tryhackme notes.md"
+    "boxes coverd/STeel Mountain.md"
   ]
 }

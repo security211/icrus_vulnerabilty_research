@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Nahamsec/rootxharsh.md",
+            "file": "Untitled.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nahamsec/rootxharsh.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "600fb06477058bd4",
   "lastOpenFiles": [
+    "Untitled.md",
     "Nahamsec/rootxharsh.md",
     "Priv esc/GTFO bins.md",
     "bruteforcing/sqlmap.md",
@@ -96,7 +97,6 @@
     "windows/funadamentals.md",
     "windows/powershell.md",
     "windows/Powershell.md",
-    "TMP.md",
-    "README.md"
+    "TMP.md"
   ]
 }

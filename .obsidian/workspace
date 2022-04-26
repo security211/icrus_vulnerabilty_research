@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Nahamsec/yahoo.md",
+            "file": "Priv esc/GTFO bins.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nahamsec/yahoo.md",
+                "file": "Priv esc/GTFO bins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,9 @@
   },
   "active": "600fb06477058bd4",
   "lastOpenFiles": [
+    "Priv esc/GTFO bins.md",
     "Nahamsec/yahoo.md",
     "Nahamsec/rootxharsh.md",
-    "Priv esc/GTFO bins.md",
     "bruteforcing/sqlmap.md",
     "bruteforcing/john.md",
     "scripting/Untitled.md",

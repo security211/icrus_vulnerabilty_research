@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Priv esc/GTFO bins.md",
+            "file": "Nahamsec/Untitled.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Priv esc/GTFO bins.md",
+                "file": "Nahamsec/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "600fb06477058bd4",
   "lastOpenFiles": [
+    "Nahamsec/Untitled.md",
     "Priv esc/GTFO bins.md",
     "bruteforcing/sqlmap.md",
     "bruteforcing/john.md",
@@ -96,7 +97,6 @@
     "windows/powershell.md",
     "windows/Powershell.md",
     "TMP.md",
-    "README.md",
-    "boxes coverd/Alfred.md"
+    "README.md"
   ]
 }

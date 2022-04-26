@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "Nahamsec/yahoo.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Nahamsec/yahoo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
   },
   "active": "600fb06477058bd4",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Nahamsec/yahoo.md",
     "Nahamsec/rootxharsh.md",
     "Priv esc/GTFO bins.md",
     "bruteforcing/sqlmap.md",

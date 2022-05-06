@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "bug bounty/Scripts.md",
+            "file": "recon/web screenshot.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bug bounty/Scripts.md",
+                "file": "recon/web screenshot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "600fb06477058bd4",
   "lastOpenFiles": [
+    "recon/web screenshot.md",
+    "bug bounty/Burp extension.md",
     "bug bounty/Scripts.md",
     "bug bounty/Payload list.md",
     "recon/Domains.md",
-    "recon/web screenshot.md",
     "recon/ssl.md",
     "recon/tryhackme notes.md",
     "Priv esc/GTFO bins.md",
     "Nahamsec/yahoo.md",
-    "Nahamsec/rootxharsh.md",
-    "bruteforcing/sqlmap.md"
+    "Nahamsec/rootxharsh.md"
   ]
 }

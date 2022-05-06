@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "recon/Untitled.md",
+            "file": "recon/Domains.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "recon/Untitled.md",
+                "file": "recon/Domains.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "600fb06477058bd4",
   "lastOpenFiles": [
-    "recon/Untitled.md",
     "recon/Domains.md",
+    "recon/Untitled.md",
     "recon/web screenshot.md",
     "bug bounty/Burp extension.md",
     "bug bounty/Scripts.md",

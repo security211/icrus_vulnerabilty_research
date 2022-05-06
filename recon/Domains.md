@@ -22,3 +22,8 @@ nslookup thmlabs.com
 Dig  & nslookup are used to check dns for ip adresses used.
 
 dns dumpster digs out dns information and shares it with the user
+
+
+reverse dns
+use domain creators emails to search for what they have also registerd
+[viewdns.info](http://viewdns.info/reversewhois/)

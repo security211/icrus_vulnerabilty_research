@@ -1,1 +1,0 @@
-captures screenshots from a lost of urls

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "bash/commands.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bash/commands.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "600fb06477058bd4",
   "lastOpenFiles": [
+    "README.md",
     "bash/commands.md",
     "Untitled.md",
     "Nahamsec/Tomnomnom.md",
@@ -96,7 +97,6 @@
     "Nahamsec/rootxharsh.md",
     "Acces control.md",
     "expoiting rootkits.md",
-    "conflict-files-obsidian-git.md",
-    "Git Dorking.md"
+    "conflict-files-obsidian-git.md"
   ]
 }

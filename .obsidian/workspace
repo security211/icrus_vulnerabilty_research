@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Nahamsec/rootxharsh.md",
+            "file": "Nahamsec/zseano.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nahamsec/rootxharsh.md",
+                "file": "Nahamsec/zseano.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "600fb06477058bd4",
   "lastOpenFiles": [
-    "Nahamsec/rootxharsh.md",
+    "Nahamsec/zseano.md",
     "Nahamsec/yahoo.md",
+    "Nahamsec/rootxharsh.md",
     "Acces control.md",
     "expoiting rootkits.md",
     "conflict-files-obsidian-git.md",
     "Git Dorking.md",
     "Information Disclosure.md",
     "Port swinger.md",
-    "README.md",
-    "ssh.md"
+    "README.md"
   ]
 }

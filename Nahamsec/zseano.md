@@ -8,4 +8,9 @@ open redirects how do they handle return url
 
 try to understand how the application works it gives you more to poke at
 
-use wayback url to check
+use wayback url to check for robbots.txt or site.yml
+how do they hndle input 
+
+jsfiddle -help you tinker with js animator 
+
+tools *tomnom wayback url

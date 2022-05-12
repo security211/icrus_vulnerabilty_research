@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Nahamsec/zseano.md",
+            "file": "Nahamsec/Tomnomnom.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nahamsec/zseano.md",
+                "file": "Nahamsec/Tomnomnom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "600fb06477058bd4",
   "lastOpenFiles": [
+    "Nahamsec/Tomnomnom.md",
     "Nahamsec/zseano.md",
     "Nahamsec/yahoo.md",
     "Nahamsec/rootxharsh.md",
@@ -96,7 +97,6 @@
     "conflict-files-obsidian-git.md",
     "Git Dorking.md",
     "Information Disclosure.md",
-    "Port swinger.md",
-    "README.md"
+    "Port swinger.md"
   ]
 }

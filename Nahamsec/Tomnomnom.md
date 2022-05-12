@@ -4,6 +4,9 @@ anew- this is better than tee
 
 assetfinder - Enables one to discover assets  https://github.com/tomnomnom/assetfinder 
 
+gf _> grep wrapper 
+gf _> stores grep patterns
+comb
 
 ## NB
 imrove typing speed 
@@ -20,7 +23,6 @@ cat from-findomain |anew domain| httprove -c 50 |anew hosts
 ff saves the body of pages 
 cat osts | fff -d 1 -s -0 roots
 
-gf _> grep wrapper 
-gf _> stores grep patterns
+
 
 

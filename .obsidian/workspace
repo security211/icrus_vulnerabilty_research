@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "recon/Domains.md",
+            "file": "Zerodays/software zeroday learning tricks.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "recon/Domains.md",
+                "file": "Zerodays/software zeroday learning tricks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "600fb06477058bd4",
   "lastOpenFiles": [
+    "Zerodays/software zeroday learning tricks.md",
     "recon/Domains.md",
     "recon/Untitled.md",
     "recon/web screenshot.md",
@@ -96,7 +97,6 @@
     "bug bounty/Payload list.md",
     "recon/ssl.md",
     "recon/tryhackme notes.md",
-    "Priv esc/GTFO bins.md",
-    "Nahamsec/yahoo.md"
+    "Priv esc/GTFO bins.md"
   ]
 }

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Nahamsec/Tomnomnom.md",
+            "file": "bash/commands.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nahamsec/Tomnomnom.md",
+                "file": "bash/commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "600fb06477058bd4",
   "lastOpenFiles": [
+    "bash/commands.md",
+    "Untitled.md",
     "Nahamsec/Tomnomnom.md",
     "Nahamsec/zseano.md",
     "Nahamsec/yahoo.md",
@@ -95,8 +97,6 @@
     "Acces control.md",
     "expoiting rootkits.md",
     "conflict-files-obsidian-git.md",
-    "Git Dorking.md",
-    "Information Disclosure.md",
-    "Port swinger.md"
+    "Git Dorking.md"
   ]
 }

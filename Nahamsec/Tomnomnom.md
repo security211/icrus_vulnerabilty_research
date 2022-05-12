@@ -14,5 +14,13 @@ cat list | assetfinder --subs-only |anew domain
 
 cat domains | httprobe -c 80 --prefer-https
 
-findomain -
+findomain -f wildcards |tee a findomain 
+cat from-findomain |anew domain| httprove -c 50 |anew hosts
+
+ff saves the body of pages 
+cat osts | fff -d 1 -s -0 roots
+
+gf _> grep wrapper 
+gf _> stores grep patterns
+
 

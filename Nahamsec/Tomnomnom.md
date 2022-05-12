@@ -6,7 +6,11 @@ assetfinder - Enables one to discover assets  https://github.com/tomnomnom/asset
 
 gf _> grep wrapper 
 gf _> stores grep patterns
-comb
+combnot sore
+waybackurls --get-version 'html'
+vimprev -preview multiple files with vim
+search for urls in github 
+
 
 ## NB
 imrove typing speed 

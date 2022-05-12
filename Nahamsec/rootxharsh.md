@@ -9,8 +9,13 @@ cms -configure content managment se
 
 ## NB
 
-try to understand the application farmework ,ad routes ,infrastructer
+try to understand the application farmework ,ad routes ,infrastructer,computer languages  flaws
 use time wisely 
 while using payloads understand hw they work 
-its going to take some time but its worth it 
+its going to take some time but its worth it
+try reversing cvs.
+routine is important. 
+
+## other
+
 

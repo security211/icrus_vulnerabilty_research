@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zerodays/software zeroday learning tricks.md",
+            "file": "Nahamsec/rootxharsh.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zerodays/software zeroday learning tricks.md",
+                "file": "Nahamsec/rootxharsh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "600fb06477058bd4",
   "lastOpenFiles": [
-    "Zerodays/software zeroday learning tricks.md",
-    "recon/Domains.md",
-    "recon/Untitled.md",
-    "recon/web screenshot.md",
-    "bug bounty/Burp extension.md",
-    "bug bounty/Scripts.md",
-    "bug bounty/Payload list.md",
-    "recon/ssl.md",
-    "recon/tryhackme notes.md",
-    "Priv esc/GTFO bins.md"
+    "Nahamsec/rootxharsh.md",
+    "Nahamsec/yahoo.md",
+    "Acces control.md",
+    "expoiting rootkits.md",
+    "conflict-files-obsidian-git.md",
+    "Git Dorking.md",
+    "Information Disclosure.md",
+    "Port swinger.md",
+    "README.md",
+    "ssh.md"
   ]
 }

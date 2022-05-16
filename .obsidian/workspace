@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "bug bounty/Untitled.md",
+            "file": "bug bounty/JHaddix.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bug bounty/Untitled.md",
+                "file": "bug bounty/JHaddix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
   },
   "active": "600fb06477058bd4",
   "lastOpenFiles": [
-    "bug bounty/Untitled.md",
+    "bug bounty/JHaddix.md",
     "web_research/ctf places.md",
     "web application handbook/resources.md",
     "README.md",

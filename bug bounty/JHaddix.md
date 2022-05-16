@@ -32,3 +32,6 @@ fuf
 
 https://wordlists.assetnote.io/
 
+General api
+brute force based on technology us
+

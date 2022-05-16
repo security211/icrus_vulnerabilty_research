@@ -33,5 +33,12 @@ fuf
 https://wordlists.assetnote.io/
 
 General api
-brute force based on technology us
+brute force based on technology used
+discovery wordlist
+## mentality 
+more complexity = more bugs
+application size matters
+find if source sode is open then scan for bugs
 
+## Content Discovery 
+source2url

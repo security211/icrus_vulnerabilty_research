@@ -1,4 +1,4 @@
-# testing layers
+## testing layers
 ### 1.open ports & services -(3-10)
 Default creads - exploit to services re rare
 ### 2.web hosting software
@@ -13,6 +13,20 @@ IDORS Sqlinjections
 where an application links with another application
 
 ## Tech profilling
-* what runs*
-* wappalyzer*
-* 
+Web
+* what runs*  - gives more details
+* wappalyzer* 
+* web analyze
+
+ terminal
+web analyze -checks for tech used to desighn web pages
+## scanning 
+for scanning you scan using nuclei
+*learn how to use nuclei*
+
+## content Discovery
+#! feroxbuster -has new feautures
+wfuzz
+fuf
+## wordlists
+

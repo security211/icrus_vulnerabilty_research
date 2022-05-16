@@ -41,4 +41,6 @@ application size matters
 find if source sode is open then scan for bugs
 
 ## Content Discovery 
-source2url
+1. tool source2url [https://github.com/danielmiessler/Source2URL/blob/master/Source2URL] creates a word list from a downloaded open website
+2. if a site is private download request a demo trial version 
+3. 

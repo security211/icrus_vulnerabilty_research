@@ -30,3 +30,5 @@ wfuzz
 fuf
 ## wordlists
 
+https://wordlists.assetnote.io/
+

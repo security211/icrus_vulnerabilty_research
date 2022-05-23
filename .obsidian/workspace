@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "bug bounty/JHaddix.md",
+            "file": "rev&pwn/compile.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bug bounty/JHaddix.md",
+                "file": "rev&pwn/compile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "600fb06477058bd4",
   "lastOpenFiles": [
+    "rev&pwn/compile.md",
+    "rev&pwn/c.md",
+    "rev&pwn/tricks in the craft.md",
+    "rev&pwn/pwn tools.md",
+    "rev&pwn/jef.md",
+    "rev&pwn/gdb.md",
+    "rev&pwn/assembly tools for annalysis.md",
     "bug bounty/JHaddix.md",
     "web_research/ctf places.md",
-    "web application handbook/resources.md",
-    "README.md",
-    "bash/commands.md",
-    "Untitled.md",
-    "Nahamsec/Tomnomnom.md",
-    "Nahamsec/zseano.md",
-    "Nahamsec/yahoo.md",
-    "Nahamsec/rootxharsh.md"
+    "web application handbook/resources.md"
   ]
 }

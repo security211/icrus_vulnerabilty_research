@@ -21,5 +21,33 @@ strace traces system calls
 site has crack me challanges
 
 ## bypass aslr by overitting page offsets
- 
+
+**Disable canary:**
+
+```c
+gcc vuln.c -o vuln_disable_canary -fno-stack-protector
+```
+
+**Disable DEP:**
+
+```c
+gcc vuln.c -o vuln_disable_dep -z execstack
+```
+
+**Disable PIE:**
+
+```c
+gcc vuln.c -o vuln_disable_pie -no-pie
+```
+
+**Disable all of protection mechanisms listed above (warning: for local testing only):**
+
+```c
+gcc fo.c -o vuln -fno-stack-protector -z execstack -no-pie
+```
+
+For 32-bit machines, you'll need to add the `-m32` parameter as well.
+
+
+
  

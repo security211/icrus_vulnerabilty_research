@@ -43,7 +43,7 @@ gcc vuln.c -o vuln_disable_pie -no-pie
 **Disable all of protection mechanisms listed above (warning: for local testing only):**
 
 ```c
-gcc fo.c -o vuln -fno-stack-protector -z execstack -no-pie
+gcc format.c -o vuln -fno-stack-protector -z execstack -no-pie -m32
 ```
 
 For 32-bit machines, you'll need to add the `-m32` parameter as well.

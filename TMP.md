@@ -49,6 +49,8 @@ hydra -l admin -P /usr/share/wordlists/rockyou.txt.gz 10.10.214.145 "/http-post-
 0xffffce0c 
 0xffffce0c 
 
+0xffffce3c
+
 
 
 

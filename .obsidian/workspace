@@ -7,12 +7,8 @@
         "id": "600fb06477058bd4",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "rev&pwn/compile.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rev&pwn/compile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",

@@ -68,3 +68,7 @@ show 4 rip instructions
 *****  
 
 vmmap is used to show how the memory is lined up 
+
+you can change variable during runtime using 
+
+set {int}0xffffce3c =3

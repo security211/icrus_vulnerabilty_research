@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "recon/Dig.md",
+            "file": "recon/Domains.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "recon/Dig.md",
+                "file": "recon/Domains.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "600fb06477058bd4",
   "lastOpenFiles": [
+    "recon/Domains.md",
     "recon/Dig.md",
     "rev&pwn/compile.md",
     "rev&pwn/c.md",
@@ -97,7 +98,6 @@
     "README.md",
     "Port swinger.md",
     "Information Disclosure.md",
-    "expoiting rootkits.md",
-    "conflict-files-obsidian-git.md"
+    "expoiting rootkits.md"
   ]
 }

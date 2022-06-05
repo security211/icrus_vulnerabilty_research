@@ -27,3 +27,10 @@ dns dumpster digs out dns information and shares it with the user
 reverse dns
 use domain creators emails to search for what they have also registerd
 [viewdns.info](http://viewdns.info/reversewhois/)
+
+
+
+
+One can us e censys to search for domanis
+
+https://censys.io/certificates?q=.example.com

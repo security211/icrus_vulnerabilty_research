@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "recon/web screenshot.md",
+            "file": "rev&pwn/pwn resources.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "recon/web screenshot.md",
+                "file": "rev&pwn/pwn resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "600fb06477058bd4",
   "lastOpenFiles": [
-    "recon/web screenshot.md",
-    "recon/Untitled.md",
-    "recon/hacktrails.md",
     "rev&pwn/pwn resources.md",
     "recon/recon tools.md",
-    "recon/Domains.md",
+    "recon/Untitled.md",
+    "rev&pwn/pwn tools.md",
+    "rev&pwn/tricks in the craft.md",
     "recon/Dig.md",
-    "rev&pwn/compile.md",
-    "rev&pwn/c.md",
-    "TMP.md"
+    "recon/Domains.md",
+    "recon/hacktrails.md",
+    "recon/Nmap.md",
+    "recon/ssl.md"
   ]
 }

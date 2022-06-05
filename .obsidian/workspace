@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "rev&pwn/pwn resources.md",
+            "file": "recon/hacktrails.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rev&pwn/pwn resources.md",
+                "file": "recon/hacktrails.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "600fb06477058bd4",
   "lastOpenFiles": [
+    "recon/hacktrails.md",
     "rev&pwn/pwn resources.md",
     "recon/recon tools.md",
     "recon/Domains.md",
@@ -97,7 +98,6 @@
     "rev&pwn/c.md",
     "TMP.md",
     "ssh.md",
-    "README.md",
-    "Port swinger.md"
+    "README.md"
   ]
 }

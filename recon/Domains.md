@@ -34,3 +34,19 @@ use domain creators emails to search for what they have also registerd
 One can us e censys to search for domanis
 
 https://censys.io/certificates?q=.example.com
+
+Before You must need to install censys (See For installation guide)in your machine using pip
+
+$pip install censys
+# Configure your credentials
+$ censys config
+#Now we have successfully Install censys cli to check just type censys
+
+censys search 'services.http.response.html_title: "Facebook
+"' --index-type hosts | jq -c '.[] | {ip: .ip}’
+
+Command: censys search ' services.tls.certificates.leaf_data.subject.common_name: "facebook.com"' --index-type hosts | jq -c '.[] | {ip: .ip}' > ip.txt
+
+#we will use sed command to delete some char from our ip.txt file
+
+Command: sed -i 's/[^0-9,.]*//g' ip.txt

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "recon/Domains.md",
+            "file": "rev&pwn/pwn resources.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "recon/Domains.md",
+                "file": "rev&pwn/pwn resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "600fb06477058bd4",
   "lastOpenFiles": [
+    "rev&pwn/pwn resources.md",
+    "recon/recon tools.md",
     "recon/Domains.md",
     "recon/Dig.md",
     "rev&pwn/compile.md",
@@ -96,8 +98,6 @@
     "TMP.md",
     "ssh.md",
     "README.md",
-    "Port swinger.md",
-    "Information Disclosure.md",
-    "expoiting rootkits.md"
+    "Port swinger.md"
   ]
 }

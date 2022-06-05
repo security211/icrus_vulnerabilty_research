@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "rev&pwn/pwn resources.md",
+            "file": "blogs.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rev&pwn/pwn resources.md",
+                "file": "blogs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "600fb06477058bd4",
   "lastOpenFiles": [
+    "blogs.md",
     "rev&pwn/pwn resources.md",
     "recon/recon tools.md",
     "recon/Untitled.md",
@@ -97,7 +98,6 @@
     "recon/Dig.md",
     "recon/Domains.md",
     "recon/hacktrails.md",
-    "recon/Nmap.md",
-    "recon/ssl.md"
+    "recon/Nmap.md"
   ]
 }

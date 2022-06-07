@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "blogs.md",
+            "file": "rev&pwn/compile.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs.md",
+                "file": "rev&pwn/compile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "600fb06477058bd4",
   "lastOpenFiles": [
+    "rev&pwn/compile.md",
+    "rev&pwn/c.md",
+    "TMP.md",
     "blogs.md",
     "rev&pwn/pwn resources.md",
     "recon/recon tools.md",
     "recon/Untitled.md",
     "rev&pwn/pwn tools.md",
     "rev&pwn/tricks in the craft.md",
-    "recon/Dig.md",
-    "recon/Domains.md",
-    "recon/hacktrails.md",
-    "recon/Nmap.md"
+    "recon/Dig.md"
   ]
 }

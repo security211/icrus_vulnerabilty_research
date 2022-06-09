@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "rev&pwn/compile.md",
+            "file": "rev&pwn/fuzzers.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rev&pwn/compile.md",
+                "file": "rev&pwn/fuzzers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "600fb06477058bd4",
   "lastOpenFiles": [
+    "rev&pwn/fuzzers.md",
     "rev&pwn/compile.md",
     "rev&pwn/c.md",
     "TMP.md",
@@ -97,7 +98,6 @@
     "recon/recon tools.md",
     "recon/Untitled.md",
     "rev&pwn/pwn tools.md",
-    "rev&pwn/tricks in the craft.md",
-    "recon/Dig.md"
+    "rev&pwn/tricks in the craft.md"
   ]
 }

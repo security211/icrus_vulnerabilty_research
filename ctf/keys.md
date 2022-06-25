@@ -12,3 +12,6 @@ nameserver 10.104.255.250
 
 Win7SP1x64
  vol.py -f Challenge2.raw  --profile=Win7SP1x64 pslist
+
+
+vol.py -f Challenge2.raw  --profile=Win7SP1x64 pslist 

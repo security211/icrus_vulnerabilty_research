@@ -7,8 +7,12 @@
         "id": "600fb06477058bd4",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "ctf/keys.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ctf/keys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +89,8 @@
   },
   "active": "600fb06477058bd4",
   "lastOpenFiles": [
+    "ctf/keys.md",
+    "Untitled.md",
     "rev&pwn/fuzzers.md",
     "rev&pwn/compile.md",
     "rev&pwn/c.md",
@@ -91,8 +98,6 @@
     "blogs.md",
     "rev&pwn/pwn resources.md",
     "recon/recon tools.md",
-    "recon/Untitled.md",
-    "rev&pwn/pwn tools.md",
-    "rev&pwn/tricks in the craft.md"
+    "recon/Untitled.md"
   ]
 }

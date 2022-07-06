@@ -1,0 +1,1 @@
+cat hosts.txt | aquatone -chrome-path 

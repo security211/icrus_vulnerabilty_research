@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ctf/keys.md",
+            "file": "tools/aquatone.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ctf/keys.md",
+                "file": "tools/aquatone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "600fb06477058bd4",
   "lastOpenFiles": [
+    "tools/aquatone.md",
+    "web application handbook/s3 buckets.md",
     "ctf/keys.md",
     "Untitled.md",
     "rev&pwn/fuzzers.md",
@@ -96,8 +98,6 @@
     "rev&pwn/c.md",
     "TMP.md",
     "blogs.md",
-    "rev&pwn/pwn resources.md",
-    "recon/recon tools.md",
-    "recon/Untitled.md"
+    "rev&pwn/pwn resources.md"
   ]
 }

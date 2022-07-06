@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "tools/aquatone.md",
+            "file": "scripting/good apis.md",
             "mode": "source",
             "source": false
           }
@@ -49,11 +49,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 228
+    "width": 228,
+    "collapsed": true
   },
   "right": {
     "id": "d4ba5fc0646d2099",
@@ -69,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/aquatone.md",
+                "file": "scripting/good apis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +91,15 @@
   },
   "active": "600fb06477058bd4",
   "lastOpenFiles": [
+    "scripting/good apis.md",
+    "scripting/nmap result  parse to searchsploit.md",
+    "scripting/Untitled.md",
     "tools/aquatone.md",
     "web application handbook/s3 buckets.md",
     "ctf/keys.md",
     "Untitled.md",
     "rev&pwn/fuzzers.md",
     "rev&pwn/compile.md",
-    "rev&pwn/c.md",
-    "TMP.md",
-    "blogs.md",
-    "rev&pwn/pwn resources.md"
+    "rev&pwn/c.md"
   ]
 }

@@ -14,3 +14,6 @@ curl -k -s “https://crt.sh/?q=tesla.com&output=json" | jq -r ‘.[] | “\(.na
 
 cert.sh use it to learn about certificates
 
+
+while running sublister use the -v option to get more from the input
+
